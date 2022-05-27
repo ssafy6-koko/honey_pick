@@ -72,8 +72,8 @@
 | 팀장, Backend                              | Backend                                  | Backend                                  |
 | PM(Jira, Wiki 관리)<br>API 문서 작성 및 구현<br>인프라 보조<br>UCC 기획 |   인프라 구축<br>BE 개발(User, Profile, Search)<br>API 문서 작성<br>UCC기획 및 제작                   | API 문서 작성<br>FE, BE 개발<br>이미지 관리<br>크롤러 개발 |
 
-| [이언호](https://github.com/unho-00)                         | [최현규](https://github.com/%7B%7D)                        | [한지윤](https://github.com/yoonnotyoun)                     |
-| ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="https://github.com/unho-00.png" width=150px, height=150px> | <img src="https://github.com/" width=150px, height=150px > | <img src="https://github.com/yoonnotyoun.png" width=150px, height=150px> |
-| Frontend                                                     | Frontend                                                   | Frontend                                                     |
-| FE 개발<br>(공통 컴포넌트 생성,<br>로그인/가입 페이지,<br>프로필 페이지,<br>팔로우 페이지,<br>기타 버그 수정) |                                                            | 기획,<br>FE 개발 <br>(아이템 페이지,<br>아이템 추가 및 추천,<br>이벤트 페이지),<br>UI 디자인,<br>프레젠테이션 |
+| [이언호](https://github.com/unho-00)                         | [최현규](https://github.com/%7B%7D)                          | [한지윤](https://github.com/yoonnotyoun)                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://github.com/unho-00.png" width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/77451973?v=4" width=150px, height=150px > | <img src="https://github.com/yoonnotyoun.png" width=150px, height=150px> |
+| Frontend                                                     | Frontend                                                     | Frontend                                                     |
+| FE 개발<br>(공통 컴포넌트 생성,<br>로그인/가입 페이지,<br>프로필 페이지,<br>팔로우 페이지,<br>기타 버그 수정) | FE개발<br />(컬렉션 관련 페이지,<br />투표 관련 페이지<br />),<br />UI 디자인,<br />UCC편집 | 기획,<br>FE 개발 <br>(아이템 페이지,<br>아이템 추가 및 추천,<br>이벤트 페이지),<br>UI 디자인,<br>프레젠테이션 |
